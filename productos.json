@@ -1,0 +1,214 @@
+
+    {
+        
+  "heladeras": [
+    {
+      "id": 1,
+      "nombre": "Heladera No Frost 360L",
+      "marca": "Samsung",
+      "imagen": "./imagenes/img.json/img-hela/heladera1-removebg-preview.png",
+      "precio": 450000,
+      "descripcion": "Heladera con tecnología No Frost y amplio espacio de almacenamiento."
+    },
+    {
+      "id": 2,
+      "nombre": "Heladera Cíclica 280L",
+      "marca": "Whirlpool",
+      "imagen": "./imagenes/img.json/img-hela/heladera2-removebg-preview.png",
+      "precio": 320000,
+      "descripcion": "Diseño clásico con congelador superior, ideal para familias pequeñas."
+    },
+    {
+      "id": 3,
+      "nombre": "Heladera Side by Side 600L",
+      "marca": "LG",
+      "imagen": "./imagenes/img.json/img-hela/heladera3-removebg-preview.png",
+      "precio": 800000,
+      "descripcion": "Diseño moderno, gran capacidad y dispensador de agua."
+    },
+    {
+      "id": 4,
+      "nombre": "Heladera Compacta 120L",
+      "marca": "Philco",
+      "imagen": "./imagenes/img.json/img-hela/heladera4-removebg-preview.png",
+      "precio": 180000,
+      "descripcion": "Ideal para espacios reducidos o uso personal."
+    },
+    {
+      "id": 5,
+      "nombre": "Heladera Inverter 390L",
+      "marca": "Electrolux",
+      "imagen": "./imagenes/img.json/img-hela/heladera5-removebg-preview.png",
+      "precio": 500000,
+      "descripcion": "Mayor eficiencia energética con tecnología Inverter."
+    }
+  ],
+  "computadoras": [
+    {
+      "id": 6,
+      "nombre": "Notebook 15.6'' Ryzen 5",
+      "marca": "HP",
+      "imagen": "./imagenes/img.json/img-computadoras/compu1-removebg-preview.png",
+      "precio": 650000,
+      "descripcion": "Notebook potente para tareas diarias y profesionales."
+    },
+    {
+      "id": 7,
+      "nombre": "Notebook 14'' Intel i3",
+      "marca": "Lenovo",
+      "imagen": "./imagenes/img.json/img-computadoras/compu2-removebg-preview.png",
+      "precio": 520000,
+      "descripcion": "Liviana y compacta, ideal para estudiantes."
+    },
+    {
+      "id": 8,
+      "nombre": "All in One 23'' i5",
+      "marca": "Dell",
+      "imagen": "./imagenes/img.json/img-computadoras/compu3-removebg-preview.png",
+      "precio": 750000,
+      "descripcion": "PC todo en uno con pantalla Full HD."
+    },
+    {
+      "id": 9,
+      "nombre": "Notebook Gamer RTX 3050",
+      "marca": "Asus",
+      "imagen": "./imagenes/img.json/img-computadoras/compu4-removebg-preview.png",
+      "precio": 1200000,
+      "descripcion": "Notebook de alto rendimiento para gaming."
+    },
+    {
+      "id": 10,
+      "nombre": "Notebook MacBook Air M1",
+      "marca": "Apple",
+      "imagen": "/imagenes/img.json/img-computadoras/compu-5-removebg-preview.png",
+      "precio": 1400000,
+      "descripcion": "Ligera, rápida y eficiente con chip Apple M1."
+    }
+  ],
+  "celulares": [
+    {
+      "id": 11,
+      "nombre": "Galaxy A54 5G",
+      "marca": "Samsung",
+      "imagen": "./imagenes/img.json/img-cel/cel-1-removebg-preview.png",
+      "precio": 420000,
+      "descripcion": "Celular de gama media con buena cámara y rendimiento."
+    },
+    {
+      "id": 12,
+      "nombre": "iPhone 13",
+      "marca": "Apple",
+      "imagen": "./imagenes/img.json/img-cel/cel-2-removebg-preview.png",
+      "precio": 1100000,
+      "descripcion": "Rendimiento superior con iOS y excelente cámara."
+    },
+    {
+      "id": 13,
+      "nombre": "Moto G Power",
+      "marca": "Motorola",
+      "imagen": "./imagenes/img.json/img-cel/cel-3-removebg-preview.png",
+      "precio": 290000,
+      "descripcion": "Batería de larga duración y buen desempeño general."
+    },
+    {
+      "id": 14,
+      "nombre": "Redmi Note 12",
+      "marca": "Xiaomi",
+      "imagen": "./imagenes/img.json/img-cel/cel-4-removebg-preview.png",
+      "precio": 310000,
+      "descripcion": "Pantalla AMOLED y excelente relación calidad/precio."
+    },
+    {
+      "id": 15,
+      "nombre": "Pixel 6a",
+      "marca": "Huawei",
+      "imagen": "./imagenes/img.json/img-cel/cel-5-removebg-preview.png",
+      "precio": 600000,
+      "descripcion": "Experiencia Android pura con excelente cámara."
+    }
+  ],
+  "televisores": [
+    {
+      "id": 16,
+      "nombre": "Smart TV 43'' 4K",
+      "marca": "Samsung",
+      "imagen": "/imagenes/img.json/img-televisor/telev-1-removebg-preview.png",
+      "precio": 380000,
+      "descripcion": "Televisor 4K con sistema Tizen y control por voz."
+    },
+    {
+      "id": 17,
+      "nombre": "Smart TV 55'' OLED",
+      "marca": "LG",
+      "imagen": "/imagenes/img.json/img-televisor/telev-2-removebg-preview.png",
+      "precio": 950000,
+      "descripcion": "Negros perfectos y colores vibrantes con tecnología OLED."
+    },
+    {
+      "id": 18,
+      "nombre": "Smart TV 50'' QLED",
+      "marca": "TCL",
+      "imagen": "/imagenes/img.json/img-televisor/telev-3-removebg-preview.png",
+      "precio": 700000,
+      "descripcion": "Gran calidad de imagen con panel QLED y Android TV."
+    },
+    {
+      "id": 19,
+      "nombre": "Smart TV 32'' HD",
+      "marca": "Philips",
+      "imagen": "/imagenes/img.json/img-televisor/telev-4-removebg-preview.png",
+      "precio": 240000,
+      "descripcion": "Ideal para dormitorios, con acceso a apps de streaming."
+    },
+    {
+      "id": 20,
+      "nombre": "Smart TV 65'' UHD",
+      "marca": "Hisense",
+      "imagen": "/imagenes/img.json/img-televisor/telev-5-removebg-preview.png",
+      "precio": 880000,
+      "descripcion": "Pantalla grande y excelente resolución para películas y series."
+    }
+  ],
+  "lavarropas": [
+  {
+    "id": 21,
+    "nombre": "Lavarropas Carga Frontal 8kg",
+    "marca": "Samsung",
+    "imagen": "./imagenes/img.json/img-lavar/lavar-1-removebg-preview.png",
+    "precio": 480000,
+    "descripcion": "Modelo eficiente con múltiples programas de lavado y tecnología EcoBubble."
+  },
+  {
+    "id": 22,
+    "nombre": "Lavarropas Automático 7kg",
+    "marca": "LG",
+    "imagen": "./imagenes/img.json/img-lavar/lavar-2-removebg-preview.png",
+    "precio": 450000,
+    "descripcion": "Lava y centrifuga con motor Inverter y bajo consumo energético."
+  },
+  {
+    "id": 23,
+    "nombre": "Lavarropas Carga Superior 6.5kg",
+    "marca": "Whirlpool",
+    "imagen": "./imagenes/img.json/img-lavar/lavar-3-removebg-preview.png",
+    "precio": 390000,
+    "descripcion": "Compacto y práctico, ideal para espacios reducidos."
+  },
+  {
+    "id": 24,
+    "nombre": "Lavarropas Carga Frontal 9kg Inverter",
+    "marca": "Drean",
+    "imagen": "./imagenes/img.json/img-lavar/lavar-4-removebg-preview.png",
+    "precio": 520000,
+    "descripcion": "Fabricación nacional, con diseño moderno y eficiente."
+  },
+  {
+    "id": 25,
+    "nombre": "Lavarropas Digital 10kg",
+    "marca": "Electrolux",
+    "imagen": "./imagenes/img.json/img-lavar/lavar-5-removebg-preview.png",
+    "precio": 590000,
+    "descripcion": "Gran capacidad, ideal para familias numerosas. Panel digital y múltiples modos."
+  }
+]
+}
