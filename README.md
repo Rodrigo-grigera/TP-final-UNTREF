@@ -29,8 +29,8 @@ Está desarrollado con HTML, CSS y JavaScript puro, y hace uso de conceptos fund
 
  📁 Estructura del Proyecto
  /imagenes/
+ 
 ├── img-html/
-
 ├── img-json/
 │ ├──img-cel/
 │ ├──img-computadoras/
